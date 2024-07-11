@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="title_of_project">Title of Project</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name">Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="contact_no">Contact No</string>
+    <string name="enter_contact_no">Enter Contact No.</string>
+    <string name="address">Address</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
 </resources>
